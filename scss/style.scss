@@ -1,0 +1,120 @@
+
+ @import "variables";
+ 
+// .title{
+//     font-size:$saturn_font_size ;
+//     font-family: $saturn_font_family;
+// }
+// .active_nav_link{
+//     font-size:$font_size_nav_item ;
+//     font-family: $font-family_item_nav;
+//     // font-weight: $font_weight;
+//     // line-height:$lign-height ;
+//     color: $color_orange;
+// }
+// ._nav_link{
+//     font-size:$font_size_nav_item ;
+//     font-family: $font-family_item_nav;
+//     // font-weight: $font_weight;
+//     // line-height:$lign-height ;
+//     color: $gris_color ;
+// }
+// .galaxy_title{
+//     font-size:$font_size ;
+//     color: $black_color;
+// }
+
+// .description{
+//     font-size:$font_size_nav_item ;
+//     font-family: $font_family_text;
+//     color: $gris_color;
+//     line-height: $ligne_height;
+//     font-weight: $font_weight;
+
+// }
+// .btttn{
+//     width: 124px;
+//     height: 26px;
+//     border-radius: 5px;
+//     background-color: #ffffff;
+//     border: 1px solid #e85f37;
+//     font-size: 13px;
+//     letter-spacing: 2px;
+//     line-height: 0px;
+//     text-transform: uppercase;
+//     color: #e85f37;
+//     font-weight: font-weight;
+
+
+// }
+
+.navTitle{
+    // font-family: $font_family;
+    font-family: $font-family;
+    font-weight:  $font_weight_bold;
+    font-size:  $font_size_large;
+
+    
+}
+.active_link_home  {
+    color: $color_orange;
+    font-size: $font_size_small ;
+    font-family: $font_family_lato;
+    font-weight: $font_weight_bold ;
+
+
+}
+.nav_link{
+    color:$color_gris;
+    font-size: $font_size_small ;
+    font-family: $font_family_lato;
+    font-weight: $font_weight_bold ;
+}
+.title_Galaxy{
+    font-size:  $font_size_normal;
+    font-family: $font_family_lato;
+    font-weight:  $font_weight_bold ;
+    color: $black_color;
+   
+}
+.text-description{
+    font-size: $font_size_small ;
+    font-family: $font-family;
+    font-weight:  $font-weight-regular;
+    color:$color_gris;
+    
+}
+.Read_More_Button{
+    color: $color_orange;
+    font-family: $font-family;
+    font-weight:  $font-weight-semiBold;
+    width: $width_btn ;
+height: $heigth_btn;
+border:  $border;
+border-radius:  $border_radius;
+
+
+}
+.text-Tags{
+    font-size: $font_size_smaller ;
+    font-family: $font-family;
+    font-weight:  $font-weight-regular;
+    color:$color_gris;
+}
+.strongTags{
+    color: $more_gris_fonce;
+}
+.btn_retour{
+    border-radius: $border_radius;
+    width:  $width_btn_retour;
+    height:  $heigth_btn_retour;
+    border:  $border_retour;
+    color: $white_color;
+    background-color: $black_color;
+}
+.Team_tag_footer{
+    font-size:  $font_size_smaller;
+    font-family: $font_family_lato;
+    font-weight:   $font_weight_regular;
+    color: $more_gris_fonce;
+}

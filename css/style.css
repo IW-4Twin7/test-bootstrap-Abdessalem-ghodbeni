@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&family=Montserrat:wght@100&family=Nunito:wght@700&family=Poppins:wght@300&family=Roboto:wght@100;300&family=Tajawal:wght@200&display=swap");
+.navTitle {
+  font-family: "OpenSans", sans-serif;
+  font-weight: Bold;
+  font-size: 27px;
+}
+
+.active_link_home {
+  color: #ff6c40;
+  font-size: 16px;
+  font-family: Lato;
+  font-weight: Bold;
+}
+
+.nav_link {
+  color: #a4a4a4;
+  font-size: 16px;
+  font-family: Lato;
+  font-weight: Bold;
+}
+
+.title_Galaxy {
+  font-size: 22px;
+  font-family: Lato;
+  font-weight: Bold;
+  color: hsl(0, 0%, 13%);
+}
+
+.text-description {
+  font-size: 16px;
+  font-family: "OpenSans", sans-serif;
+  font-weight: 400;
+  color: #a4a4a4;
+}
+
+.Read_More_Button {
+  color: #ff6c40;
+  font-family: "OpenSans", sans-serif;
+  font-weight: 600;
+  width: 124px;
+  height: 26px;
+  border: 1px solid #ff6c40;
+  border-radius: 5px;
+}
+
+.text-Tags {
+  font-size: 13px;
+  font-family: "OpenSans", sans-serif;
+  font-weight: 400;
+  color: #a4a4a4;
+}
+
+.strongTags {
+  color: #818181;
+}
+
+.btn_retour {
+  border-radius: 5px;
+  width: 135px;
+  height: 35px;
+  border: 1px solid hsl(0, 0%, 13%);
+  color: #ffffff;
+  background-color: hsl(0, 0%, 13%);
+}
+
+.Team_tag_footer {
+  font-size: 13px;
+  font-family: Lato;
+  font-weight: 400;
+  color: #818181;
+}
+
+/*# sourceMappingURL=style.css.map */
